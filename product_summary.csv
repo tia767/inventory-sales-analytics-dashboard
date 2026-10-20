@@ -1,0 +1,31 @@
+﻿Product_ID,Product_Name,Category,Total_Sold,Revenue,Profit,Initial_Stock,Estimated_Stock,Minimum_Stock,Stock_Status
+P001,Paracetamol Regular,Medicine,37,1650200,660672,135,98,36,OK
+P002,Paracetamol Plus,Personal Care,18,860274,261972,108,90,38,OK
+P003,Paracetamol Extra,Medicine,26,841802,174356,192,166,16,OK
+P004,Vitamin C Regular,Supplement,31,934371,356624,150,119,29,OK
+P005,Vitamin C Plus,Medicine,24,851256,419880,179,155,11,OK
+P006,Vitamin C Extra,Supplement,28,784448,351260,92,64,37,OK
+P007,Antiseptic Regular,Medicine,21,479115,191415,176,155,20,OK
+P008,Antiseptic Plus,Hygiene,20,881380,411600,75,55,10,OK
+P009,Antiseptic Extra,Hygiene,35,894950,220150,103,68,26,OK
+P010,Hand Sanitizer Regular,Supplement,36,1796256,550188,184,148,25,OK
+P011,Hand Sanitizer Plus,Supplement,28,1217720,276864,182,154,11,OK
+P012,Hand Sanitizer Extra,Medicine,43,1256933,437955,179,136,11,OK
+P013,Face Mask Regular,Hygiene,32,389184,133728,197,165,12,OK
+P014,Face Mask Plus,Hygiene,29,1138511,318159,120,91,34,OK
+P015,Face Mask Extra,Supplement,28,1266720,257068,155,127,20,OK
+P016,Shampoo Regular,Supplement,25,876625,426000,54,29,25,OK
+P017,Shampoo Plus,Personal Care,39,396513,130533,72,33,37,RESTOCK
+P018,Shampoo Extra,Personal Care,22,971256,427042,50,28,10,OK
+P019,Body Lotion Regular,Personal Care,33,873807,223938,199,166,14,OK
+P020,Body Lotion Plus,Personal Care,19,646950,304608,178,159,24,OK
+P021,Body Lotion Extra,Medicine,30,1110150,549840,87,57,18,OK
+P022,Toothpaste Regular,Hygiene,44,1564508,667524,103,59,33,OK
+P023,Toothpaste Plus,Supplement,39,1919619,598143,76,37,15,OK
+P024,Toothpaste Extra,Medicine,42,922866,198618,83,41,32,OK
+P025,Baby Powder Regular,Medicine,38,1804886,462726,103,65,34,OK
+P026,Baby Powder Plus,Hygiene,22,860596,415690,137,115,37,OK
+P027,Baby Powder Extra,Supplement,24,301344,131040,83,59,12,OK
+P028,Cough Syrup Regular,Medicine,24,267984,115368,172,148,40,OK
+P029,Cough Syrup Plus,Personal Care,26,654368,250198,164,138,26,OK
+P030,Cough Syrup Extra,Hygiene,40,1166560,532280,91,51,15,OK

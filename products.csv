@@ -1,0 +1,31 @@
+﻿Product_ID,Product_Name,Category,Selling_Price,Cost_Price,Initial_Stock,Minimum_Stock
+P001,Paracetamol Regular,Medicine,44600,26744,135,36
+P002,Paracetamol Plus,Personal Care,47793,33239,108,38
+P003,Paracetamol Extra,Medicine,32377,25671,192,16
+P004,Vitamin C Regular,Supplement,30141,18637,150,29
+P005,Vitamin C Plus,Medicine,35469,17974,179,11
+P006,Vitamin C Extra,Supplement,28016,15471,92,37
+P007,Antiseptic Regular,Medicine,22815,13700,176,20
+P008,Antiseptic Plus,Hygiene,44069,23489,75,10
+P009,Antiseptic Extra,Hygiene,25570,19280,103,26
+P010,Hand Sanitizer Regular,Supplement,49896,34613,184,25
+P011,Hand Sanitizer Plus,Supplement,43490,33602,182,11
+P012,Hand Sanitizer Extra,Medicine,29231,19046,179,11
+P013,Face Mask Regular,Hygiene,12162,7983,197,12
+P014,Face Mask Plus,Hygiene,39259,28288,120,34
+P015,Face Mask Extra,Supplement,45240,36059,155,20
+P016,Shampoo Regular,Supplement,35065,18025,54,25
+P017,Shampoo Plus,Personal Care,10167,6820,72,37
+P018,Shampoo Extra,Personal Care,44148,24737,50,10
+P019,Body Lotion Regular,Personal Care,26479,19693,199,14
+P020,Body Lotion Plus,Personal Care,34050,18018,178,24
+P021,Body Lotion Extra,Medicine,37005,18677,87,18
+P022,Toothpaste Regular,Hygiene,35557,20386,103,33
+P023,Toothpaste Plus,Supplement,49221,33884,76,15
+P024,Toothpaste Extra,Medicine,21973,17244,83,32
+P025,Baby Powder Regular,Medicine,47497,35320,103,34
+P026,Baby Powder Plus,Hygiene,39118,20223,137,37
+P027,Baby Powder Extra,Supplement,12556,7096,83,12
+P028,Cough Syrup Regular,Medicine,11166,6359,172,40
+P029,Cough Syrup Plus,Personal Care,25168,15545,164,26
+P030,Cough Syrup Extra,Hygiene,29164,15857,91,15
